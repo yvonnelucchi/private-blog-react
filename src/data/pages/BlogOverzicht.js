@@ -1,7 +1,7 @@
 import React from 'react';
 
 
-export default function blogOverzicht() {
+export default function BlogOverzicht() {
     return(
         <>
         <h2>blogOverzicht</h2>

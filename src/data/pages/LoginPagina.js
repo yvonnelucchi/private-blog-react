@@ -1,7 +1,7 @@
 import React from 'react';
 
 
-export default function loginPagina() {
+export default function LoginPagina() {
     return(
         <>
         <h2>loginPagina</h2>
